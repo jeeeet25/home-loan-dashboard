@@ -1,7 +1,7 @@
 # Data Modeling Fundamentals in Power BI
 
 Welcome to the repository for understanding the essence of data modeling using Power BI. Here, we delve deep into the intricacies of transforming raw data into insightful visuals and calculations.
-
+[link to the blog](https://medium.com/@pateljeet499/speak-sql-harnessing-openai-for-effortless-natural-language-querying-c09b776455ee)
 ## Introduction
 Feeling overwhelmed with data? Power BI acts as your trusty detective, transforming heaps of information into interactive dashboards and reports. Dive into the world of Data Analysis Expressions (DAX) and see how it revolutionizes your data interpretation.
 
